@@ -1,20 +1,18 @@
 ## Ruth A. Carpenter 
 
 ### About Me 
-I am a Digital Scholarship Librarian at Binghamton University where I consult, teach and continuously engage with digital humanities and tools along with the growing community of dh scholars on campus. 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+>'Can You Jam with the Console Cowboys in Cyberspace?'
+<img align="right" width="200" src="https://i.imgur.com/A8tPwO3.jpg">
 
-<!--
-**RCarp-digSchol/Rcarp-digSchol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Digital Scholarship Librarian at Binghamton University where I consult, teach and continuously engage with digital humanities and tools along with the growing community of dh scholars on campus.
 
-Here are some ideas to get you started:
+**My research interests include:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌳 Digital Borders 
+
+🌳 Digital Archives 
+
+🌳 Digital literacy through making 
+___
+### My cats
+🐈 Tormund and 🐈‍⬛Riker
