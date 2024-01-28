@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ruth A. Carpenter
+
+## Research Interests 
+Digital Scholarship 
+
+## Work Philosophy 
+
 
 <!--
 **RCarp-digSchol/Rcarp-digSchol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
