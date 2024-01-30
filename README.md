@@ -12,7 +12,7 @@ I am a Digital Scholarship Librarian at Binghamton University where I consult, t
 
 🌳 Digital Archives 
 
-🌳 Digital literacy through making 
+🌳 Digital literacy through making
 ___
 ### My cats
 🐈 Tormund and 🐈‍⬛Riker
